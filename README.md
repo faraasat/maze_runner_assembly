@@ -8,8 +8,8 @@
 #### In this project emu8086 is used for emulating intelx86 8086 Architecture and also for writing our program.
 
 ### 🤹‍♂️ Skill:
-![Visual Studio](https://img.shields.io/badge/-Assemly%20Language-00CCBB?style=for-the-badge&logo=intel)&nbsp;&nbsp;&nbsp;&nbsp;
-![Data Structure and Algorithms](https://img.shields.io/badge/-emu8086%20MICROPROCESSOR%20EMULATOR-14A0C4?&style=for-the-badge&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Assemly%20Language-e1ff00?style=for-the-badge&logo=intel&logoColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Data Structure and Algorithms](https://img.shields.io/badge/-emu8086%20MICROPROCESSOR%20EMULATOR-ffb600?&style=for-the-badge&logoColor=white)&nbsp;
 
 ### ✔ Contributers:
 <p align="center">
