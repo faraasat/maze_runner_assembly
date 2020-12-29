@@ -1,4 +1,4 @@
-# 👨‍💻 Employment Management System Project.
+# 👨‍💻 Maze Runner Project.
 ## 📽 A project based on Computer Organization and Assembly Course.
 
 ### 🕵️‍♂️ Project Details:
