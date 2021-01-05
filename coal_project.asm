@@ -1392,15 +1392,3 @@ CONGRETS PROC
     RET
 CONGRETS ENDP
 ;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-;+++++++++++++++++++++++++ RESTORE METHOD +++++++++++++++++++++++++++
-RESTORE proc                    ; To reset all values
-    MOV COUNT_MAX, 0            ; Moving 0 to COUNT_MAX
-    MOV P1_COUNT, '0'           ; Moving ascii 0 to P1_COUNT
-    MOV P2_COUNT, '0'           ; Moving ascii 0 to P2_COUNT
-    MOV P3_COUNT, '0'           ; Moving ascii 0 to P3_COUNT
-    CALL RESET                  ; Call RESET Method     
-    CALL HEAD                   ; Call HEAD Method
-    RET
-RESTORE endp
-;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
