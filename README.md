@@ -1,25 +1,34 @@
-# 👨‍💻 Maze Runner Project.
-## 📽 A project based on Computer Organization and Assembly Course.
+# Maze Runner.
+
+#### 📽 A basic GUI-based Maze Runner Game.
+
+<br />
 
 ### 🕵️‍♂️ Project Details:
-####  This project is based on Computer Organization and Assembly course implemented in intel x86 assembly language. In this project we have developed a simple maze runner program.
 
-### ⚙ Technical Details:
-#### In this project emu8086 is used for emulating intelx86 8086 Architecture and also for writing our program.
+This is the basic GUI-based Maze Runner Game with Levels and Scoring Made using Assembly Language on Emu8086 Emulator.
 
-### 🤹‍♂️ Skill:
-![Visual Studio](https://img.shields.io/badge/-Assemly%20Language-e1ff00?style=for-the-badge&logo=intel&logoColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Data Structure and Algorithms](https://img.shields.io/badge/-emu8086%20MICROPROCESSOR%20EMULATOR-ffb600?&style=for-the-badge&logoColor=white)&nbsp;
+---
 
-### ✔ Contributers:
+### 🤹‍♂️ Skills Utilized:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;&nbsp;&nbsp;
+![AssemblyLanguage](https://img.shields.io/badge/-Assembly%20Language-333333?style=for-the-badge&logo=8086)&nbsp;&nbsp;&nbsp;&nbsp;
+
+---
+
+### ✔ Contributors:
+
+We would like to acknowledge the following contributor for their valuable contributions to this project:
+
 <p align="center">
   <a href="https://github.com/faraasat">
-    <img height="28em" src="https://img.shields.io/badge/Farasat%20Ali-Farasat%20Ali-181717?style=for-the-badge&logo=github"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-Farasat%20Ali-181727?style=for-the-badge&logo=github"/>
+  </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/faraasat">
-    <img height="28em" src="https://img.shields.io/badge/Babar%20Ali-Babar%20Ali-181717?style=for-the-badge&logo=github"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-Babar%20Ali-181727?style=for-the-badge&logo=github"/>
+  </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/faraasat">
-    <img height="28em" src="https://img.shields.io/badge/Shafai%20Tahir-Shafai%20Tahir-181717?style=for-the-badge&logo=github"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-Shafai%20Tahir-181727?style=for-the-badge&logo=github"/>
+  </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
